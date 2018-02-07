@@ -11,8 +11,21 @@ body {
 	background-color: #fcfcfc;
 }
 
+.index-coloer{
+	background: #9b6a49;
+}
+
 .art-coloer{
 	background: #f38e46;
+}
+.food-coloer{
+	background: #70b2b0;
+}
+.history-coloer{
+	background: #5b5b5b;
+}
+.story-coloer{
+	background: #f36b6d;
 }
 
 
